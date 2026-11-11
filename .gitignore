@@ -1,0 +1,15 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Original source assets (copies used by the site live in public/)
+/*.mp4
+/*.zip
+/*.pdf
+/*.png
+/*.jpeg
