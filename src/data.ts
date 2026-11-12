@@ -122,8 +122,8 @@ export const PORTFOLIO_DATA = {
         { name: "Figma", level: "Advanced" },
         { name: "Wireframing & Prototyping", level: "Advanced" },
         { name: "Responsive / Mobile-first Design", level: "Advanced" },
-        { name: "User Research & Usability Testing", level: "Intermediate" },
-        { name: "Design Systems", level: "Intermediate" }
+        { name: "User Research & Usability Testing", level: "Beginner" },
+        { name: "Design Systems", level: "Beginner" }
       ]
     },
     {
@@ -131,19 +131,19 @@ export const PORTFOLIO_DATA = {
       items: [
         { name: "HTML5, CSS3 & JavaScript (ES6+)", level: "Advanced" },
         { name: "React.js & Next.js", level: "Advanced" },
-        { name: "Laravel (MVC)", level: "Intermediate" },
+        { name: "Laravel (MVC)", level: "Advanced" },
         { name: "Tailwind CSS", level: "Advanced" },
-        { name: "RESTful API", level: "Intermediate" },
-        { name: "WordPress & Vercel Deployment", level: "Intermediate" }
+        { name: "RESTful API", level: "Beginner" },
+        { name: "WordPress & Vercel Deployment", level: "Beginner" }
       ]
     },
     {
       category: "Data & Analytics",
       items: [
-        { name: "SQL & Database Design", level: "Intermediate" },
-        { name: "Google Analytics", level: "Intermediate" },
-        { name: "A/B Testing & Campaign Analysis", level: "Intermediate" },
-        { name: "Data Visualization", level: "Intermediate" },
+        { name: "SQL & Database Design", level: "Beginner" },
+        { name: "Google Analytics", level: "Beginner" },
+        { name: "A/B Testing & Campaign Analysis", level: "Beginner" },
+        { name: "Data Visualization", level: "Beginner" },
         { name: "Excel & Google Sheets", level: "Advanced" }
       ]
     },
@@ -152,9 +152,9 @@ export const PORTFOLIO_DATA = {
       items: [
         { name: "Git & GitHub", level: "Advanced" },
         { name: "Visual Studio Code & Postman", level: "Advanced" },
-        { name: "ERP Systems", level: "Intermediate" },
+        { name: "ERP Systems", level: "Beginner" },
         { name: "AI Tools (ChatGPT, Copilot)", level: "Advanced" },
-        { name: "Agile / Scrum Basics", level: "Intermediate" }
+        { name: "Agile / Scrum Basics", level: "Beginner" }
       ]
     }
   ] as SkillCategory[],
